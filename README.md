@@ -33,6 +33,7 @@ Description: Concrete subclass of Employee representing a full-time employee.
 
 Attributes:
 - monthlySalary: Monthly salary of the full-time employee.
+
 Methods:
 - calculateSalary(): Overrides the calculateSalary() method from the Employee class to return the monthly salary.
 
