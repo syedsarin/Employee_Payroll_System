@@ -30,6 +30,7 @@ Methods:
 2) FulltimeEmployee:
 
 Description: Concrete subclass of Employee representing a full-time employee.
+
 Attributes:
 - monthlySalary: Monthly salary of the full-time employee.
 Methods:
@@ -47,6 +48,7 @@ Methods:
 4) PayrollSystem:
 
 Description: Class responsible for managing a list of employees and performing operations like adding, removing, and displaying employees.
+
 Attributes:
 - employeeList: ArrayList to store instances of Employee.
 Methods:
