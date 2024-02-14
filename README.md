@@ -20,6 +20,7 @@ Description: Abstract class representing an employee with basic attributes like 
 Attributes:
 - employeeName: Name of the employee.
 - employeeId: Unique ID of the employee.
+
 Methods:
 - getEmplyeeName(): Getter for retrieving the employee name.
 - getEmployeeId(): Getter for retrieving the employee ID.
