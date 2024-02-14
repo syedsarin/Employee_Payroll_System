@@ -43,6 +43,7 @@ Description: Concrete subclass of Employee representing a part-time employee.
 Attributes:
 - hoursWorked: Number of hours worked by the part-time employee.
 - hourlyRate: Hourly rate of the part-time employee.
+
 Methods:
 - calculateSalary(): Overrides the calculateSalary() method from the Employee class to return the salary based on hours worked and hourly rate.
 
@@ -52,6 +53,7 @@ Description: Class responsible for managing a list of employees and performing o
 
 Attributes:
 - employeeList: ArrayList to store instances of Employee.
+
 Methods:
 - addEmployee(Employee employee): Adds an employee to the list.
 - removeEmployee(int empId): Removes an employee from the list based on employee ID.
