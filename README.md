@@ -16,6 +16,7 @@ Classes
 1) Employee:
 
 Description: Abstract class representing an employee with basic attributes like name and ID.
+
 Attributes:
 - employeeName: Name of the employee.
 - employeeId: Unique ID of the employee.
